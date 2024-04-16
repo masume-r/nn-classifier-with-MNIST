@@ -28,9 +28,26 @@ Total = 68,650
 ![mlp-acc](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/568c59fe-900e-445f-903d-837865120572)
 
 
- Compare the predictive performances of LeNet-5 and your custom MLP:
+#Compare the predictive performances of LeNet-5 and your custom MLP:
 
- regularization techniques:
+regularization techniques:
+LeNet 5과 custom MLP는 둘 디 좋은 성능을 보여줍니다.
+Mlp와 LeNet5 Accuracy plot에서 보시다시피 test 데이터보다는 training 데이터에서 봏은 accuracy를 가지고 있습니다. Lenet5은 test data에서 조금 더 좋은 accuracy가 있습니다.
+그리고 loss plot에서도 lenet5은 더 작은 값을 있습니다.
+
+Lenet5 accuracy:
+epoch1에서------> Train data:0.90% /Testdata: 0.98%에서
+epoch10에서-----> Train data:100%  /Testdata: 0.99%  
+실제 accuracy는 ~99%이라고 합니다
+
+Mlp accuracy:
+epoch1에서-----> Train data:0.99% / Testdata: 0.95%
+epoch10에서----> Train data:99%   /Testdata: 0.98%  
+
+#Regularization
+Regularization Dropput batch normalization 2개를 해봤습니다. Accuracy는 99%이라서 Regularization을 해도 99%을 기지고 있습니다. 
+
+
 
 
  
