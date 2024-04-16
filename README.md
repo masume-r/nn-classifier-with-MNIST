@@ -26,3 +26,9 @@ Total = 68,650
 ![lenet-acc](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/6984df0f-9ae1-4153-b8b2-225f05371a65)
 ![mlp-loss](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/8cb61a91-186e-4d5b-9abe-dfc6342deb81)
 ![mlp-acc](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/568c59fe-900e-445f-903d-837865120572)
+
+
+ Compare the predictive performances of LeNet-5 and your custom MLP:
+![image](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/e69ce89d-c88f-407d-8597-e85fdcfc3bcc)
+
+ 
