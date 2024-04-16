@@ -44,10 +44,10 @@ Mlp accuracy:
 epoch1에서-----> Train data:0.99% / Testdata: 0.95%
 epoch10에서----> Train data:99%   /Testdata: 0.98%  
 
+
 #Regularization
 Regularization Dropput batch normalization 2개를 해봤습니다. Accuracy는 99%이라서 Regularization을 해도 99%을 기지고 있습니다. 
-
-
-
+![lenet5-regularization techniques-acc](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/d8fbbd2d-0757-4d80-9a0a-ad968f8e37d4)
+![Lenet5regularization techniques-loss](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/f878b4fb-b9ed-454c-b5bb-5e7208e77ccc)
 
  
