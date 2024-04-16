@@ -29,6 +29,8 @@ Total = 68,650
 
 
  Compare the predictive performances of LeNet-5 and your custom MLP:
-![image](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/e69ce89d-c88f-407d-8597-e85fdcfc3bcc)
+
+ regularization techniques:
+
 
  
