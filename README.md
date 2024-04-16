@@ -24,3 +24,5 @@ Total = 68,650
 
 ![lenet-lose](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/a182f4e0-1fe8-460f-a72c-4cfb0802d2e4)
 ![lenet-acc](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/6984df0f-9ae1-4153-b8b2-225f05371a65)
+![image](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/b77a2cbc-836e-4dca-8d27-7ca1cd2895d0)
+![image](https://github.com/masume-r/nn-classifier-with-MNIST/assets/167098630/cf744db7-edee-4d60-af4f-75eff21432c4)
